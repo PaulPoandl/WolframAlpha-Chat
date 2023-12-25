@@ -26,3 +26,11 @@ Link: https://aicommandhub2.wordpress.com
 
 # Source
 Author: Paul Poandl
+
+Contact: Paul.Poandl@gmail.com, bytegroovelabs@gmail.com
+
+Note: WolframAlpha (https://wolframalpha.com) is not my program!
+Note: The API maybe cost something!
+Note: Read the introduction before you use the program!
+Note: Agree the license otherwise you are not allowed to use it!
+Note: The program maybe have some errors!
