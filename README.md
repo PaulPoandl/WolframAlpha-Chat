@@ -12,7 +12,7 @@ Click on one of the Links below to download the installation file, you can also 
 ## Version 1.0
 For Windows 11/Windows 10/Windows 8/Windows 7:
 
-Dropbox:https://www.dropbox.com/scl/fi/6lvwv2q3icoaha21794sm/WolframAlpha-Chat-1.0-Installer.exe?rlkey=6xxh5m7ce1lkorju3hkfxnsyy&dl=0 (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
+Dropbox: https://www.dropbox.com/scl/fi/6lvwv2q3icoaha21794sm/WolframAlpha-Chat-1.0-Installer.exe?rlkey=6xxh5m7ce1lkorju3hkfxnsyy&dl=0 (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
 
 # Follow us on Social Media
 
