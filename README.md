@@ -18,7 +18,6 @@ Please note, if you choose to download the source code, ensure that you have Pyt
   (Note: Your computer might warn you about the executable file. If you have concerns, feel free to reach out to me at Paul.Poandl@gmail.com)
 
 Remember, if you download the source code from GitHub, ensure you have the proper Python environment and necessary modules installed to run the program successfully.
-Click on one of the Links below to download the installation file, you can also choose the version you like:
 
 # Follow us on Social Media!
 
