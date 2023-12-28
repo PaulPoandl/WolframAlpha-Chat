@@ -7,7 +7,7 @@ WolframAlpha Chat is a Tkinter-based GUI application that seamlessly connects us
 
 # Installation
 
-To download the program, select the version that suits your needs from the links below. Each version is compatible with Windows 11, Windows 10, Windows 8, and Windows 7. You have two options for downloading: either as an executable file (.exe) from Google Drive or as source code from GitHub.
+To download the program, select the version that suits your needs from the links below. Each version is compatible with Windows 11, Windows 10, Windows 8, and Windows 7. You have two options for downloading: either as an executable file (.exe) from Dropbox or as source code from GitHub.
 
 Please note, if you choose to download the source code, ensure that you have Python installed on your system, along with all the necessary modules required by the program. Additionally, you can convert the source code to an executable (.exe) file using PyInstaller.
 
